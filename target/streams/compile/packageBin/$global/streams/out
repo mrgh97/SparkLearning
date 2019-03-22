@@ -1,0 +1,83 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging D:\java projects\interest\target\scala-2.12\interest_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeiboN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\WeiboN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LikeMusic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\LikeMusic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRankRes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\PageRankRes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRankRes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\PageRankRes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetWork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\NetWork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GuanZhu$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\GuanZhu$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest2$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest2$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeiboBasic$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\WeiboBasic$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FenSi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\FenSi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeiboN$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\WeiboN$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeiboBasic$$typecreator29$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\WeiboBasic$$typecreator29$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeiboBasic$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\WeiboBasic$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FenSi$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\FenSi$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeiboBasic$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\WeiboBasic$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserProfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\UserProfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetWork$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\NetWork$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LikeSport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\LikeSport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LabelProRes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\LabelProRes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LikeFootball.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\LikeFootball.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GuanZhu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\GuanZhu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetWork$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\NetWork$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest1$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest1$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetWork$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\NetWork$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserProfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\UserProfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest1$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest1$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest2$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest2$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeiboBasic$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\WeiboBasic$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LikeSport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\LikeSport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LikeMusic$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\LikeMusic$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LikeFootball$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\LikeFootball$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LabelProRes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\LabelProRes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interest2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\Interest2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeiboBasic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\java projects\interest\target\scala-2.12\classes\WeiboBasic.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
